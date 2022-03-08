@@ -21,7 +21,7 @@
 19,Archimedes,True,Random,125.0,8.0,3.0,5.0,4.0
 20,Archimedes,True,Circle,125.0,4.0,2.0,4.0,4.0
 21,Archimedes,True,Brush,250.0,1.0,6.0,6.0,1.0
-22,Archimedes,False,Point,,1.0,,,
+22,Archimedes,False,Point,16.0,1.0,,,
 23,Archimedes,True,Circle,16.0,4.0,3.0,0.0,2.0
 24,Archimedes,True,Circle,16.0,8.0,1.0,1.0,4.0
 25,Archimedes,True,Brush,125.0,1.0,6.0,5.0,1.0
@@ -56,7 +56,7 @@
 54,Aristotle,True,Brush,250.0,8.0,5.0,3.0,4.0
 55,Aristotle,True,Circle,250.0,8.0,5.0,2.0,3.0
 56,Aristotle,True,Random,16.0,1.0,5.0,3.0,5.0
-57,Aristotle,False,Point,,1.0,,,
+57,Aristotle,False,Point,16.0,1.0,,,
 58,Aristotle,True,Point,125.0,8.0,4.0,1.0,4.0
 59,Aristotle,True,Brush,125.0,1.0,5.0,2.0,2.0
 60,Aristotle,True,Brush,250.0,1.0,6.0,3.0,1.0
@@ -97,7 +97,7 @@
 95,Bernoulli,True,Brush,16.0,4.0,4.0,3.0,3.0
 96,Bernoulli,True,Random,250.0,1.0,3.0,2.0,5.0
 97,Bernoulli,True,Circle,250.0,4.0,4.0,1.0,2.0
-98,Bernoulli,False,Point,,1.0,,,
+98,Bernoulli,False,Point,16.0,1.0,,,
 99,Bernoulli,True,Brush,16.0,1.0,3.0,2.0,3.0
 100,Bernoulli,True,Brush,250.0,8.0,4.0,1.0,4.0
 101,Bernoulli,False,Point,16.0,1.0,,,
@@ -121,7 +121,7 @@
 119,Bohr,False,Point,16.0,1.0,,,
 120,Bohr,True,Brush,125.0,4.0,6.0,3.0,4.0
 121,Bohr,True,Random,125.0,8.0,5.0,3.0,3.0
-122,Bohr,False,Point,,1.0,,,
+122,Bohr,False,Point,16.0,1.0,,,
 123,Bohr,True,Circle,250.0,8.0,5.0,3.0,3.0
 124,Bohr,True,Brush,16.0,1.0,4.0,4.0,4.0
 125,Bohr,True,Circle,125.0,4.0,4.0,4.0,5.0
@@ -160,7 +160,7 @@
 158,Copernicus,True,Circle,16.0,8.0,3.0,1.0,4.0
 159,Copernicus,True,Random,125.0,1.0,3.0,5.0,6.0
 160,Copernicus,True,Brush,125.0,8.0,3.0,5.0,5.0
-161,Copernicus,False,Point,,1.0,,,
+161,Copernicus,False,Point,16.0,1.0,,,
 162,Copernicus,True,Brush,16.0,4.0,3.0,4.0,4.0
 163,Copernicus,True,Point,250.0,4.0,4.0,3.0,3.0
 164,Copernicus,True,Circle,16.0,1.0,6.0,1.0,0.0
@@ -196,7 +196,7 @@
 194,Curie,True,Brush,125.0,8.0,3.0,3.0,4.0
 195,Curie,True,Point,125.0,1.0,3.0,1.0,2.0
 196,Curie,True,Circle,250.0,8.0,3.0,3.0,2.0
-197,Curie,False,Point,,1.0,,,
+197,Curie,False,Point,16.0,1.0,,,
 198,Curie,True,Brush,125.0,1.0,4.0,4.0,3.0
 199,Curie,True,Random,250.0,8.0,3.0,4.0,5.0
 200,Curie,True,Brush,250.0,4.0,3.0,4.0,4.0
@@ -233,7 +233,7 @@
 231,Euler,True,Random,16.0,8.0,4.0,4.0,4.0
 232,Euler,False,Circle,16.0,4.0,,,
 233,Euler,True,Brush,16.0,8.0,1.0,6.0,5.0
-234,Euler,False,Point,,1.0,,,
+234,Euler,False,Point,16.0,1.0,,,
 235,Euler,True,Circle,125.0,4.0,3.0,2.0,3.0
 236,Euler,False,Point,16.0,4.0,,,
 237,Euler,True,Random,250.0,4.0,1.0,6.0,5.0
@@ -286,7 +286,7 @@
 284,Eddison,True,Brush,125.0,1.0,6.0,4.0,0.0
 285,Eddison,True,Circle,250.0,8.0,5.0,2.0,3.0
 286,Eddison,True,Circle,250.0,4.0,5.0,1.0,2.0
-287,Eddison,False,Point,,1.0,,,
+287,Eddison,False,Point,16.0,1.0,,,
 288,Eddison,True,Circle,16.0,8.0,0.0,0.0,3.0
 289,Eddison,True,Brush,250.0,8.0,5.0,5.0,4.0
 290,Eddison,True,Circle,125.0,4.0,6.0,2.0,2.0
@@ -306,7 +306,7 @@
 304,Fibonacci,True,Random,250.0,1.0,4.0,6.0,4.0
 305,Fibonacci,True,Brush,16.0,8.0,2.0,5.0,5.0
 306,Fibonacci,True,Brush,250.0,4.0,2.0,5.0,4.0
-307,Fibonacci,False,Point,,1.0,,,
+307,Fibonacci,False,Point,16.0,1.0,,,
 308,Fibonacci,True,Circle,250.0,8.0,2.0,1.0,3.0
 309,Fibonacci,True,Brush,16.0,4.0,1.0,6.0,5.0
 310,Fibonacci,True,Point,16.0,4.0,3.0,0.0,3.0
@@ -361,7 +361,7 @@
 359,Galilei,True,Circle,250.0,4.0,3.0,2.0,4.0
 360,Galilei,True,Circle,125.0,4.0,3.0,2.0,4.0
 361,Galilei,False,Point,16.0,1.0,,,
-362,Galilei,False,Point,,1.0,,,
+362,Galilei,False,Point,16.0,1.0,,,
 363,Galilei,False,Circle,16.0,1.0,,,
 364,Galilei,True,Circle,125.0,1.0,3.0,3.0,4.0
 365,Galilei,True,Random,125.0,4.0,3.0,3.0,4.0
@@ -392,7 +392,7 @@
 390,Gauss,True,Random,16.0,8.0,3.0,4.0,4.0
 391,Gauss,True,Brush,250.0,4.0,6.0,5.0,6.0
 392,Gauss,True,Point,16.0,4.0,3.0,0.0,2.0
-393,Gauss,False,Point,,1.0,,,
+393,Gauss,False,Point,16.0,1.0,,,
 394,Gauss,True,Brush,125.0,1.0,6.0,5.0,6.0
 395,Gauss,True,Point,125.0,4.0,4.0,3.0,4.0
 396,Gauss,True,Random,125.0,4.0,5.0,4.0,4.0
@@ -407,7 +407,7 @@
 405,Gauss,True,Circle,250.0,1.0,3.0,0.0,2.0
 406,Gauss,True,Brush,250.0,1.0,4.0,4.0,2.0
 407,Hertz,False,Point,16.0,4.0,,,
-408,Hertz,False,Point,,1.0,,,
+408,Hertz,False,Point,16.0,1.0,,,
 409,Hertz,True,Brush,125.0,1.0,3.0,0.0,0.0
 410,Hertz,True,Random,125.0,4.0,1.0,2.0,3.0
 411,Hertz,True,Circle,250.0,8.0,3.0,0.0,0.0
@@ -475,14 +475,14 @@
 473,Hawking,True,Brush,16.0,1.0,5.0,2.0,0.0
 474,Hawking,True,Random,16.0,1.0,5.0,2.0,5.0
 475,Hawking,True,Point,125.0,4.0,5.0,2.0,2.0
-476,Hawking,False,Point,,1.0,,,
+476,Hawking,False,Point,16.0,1.0,,,
 477,Hawking,True,Random,125.0,4.0,5.0,2.0,4.0
 478,Hawking,True,Random,250.0,4.0,5.0,2.0,3.0
 479,Hawking,True,Brush,16.0,4.0,5.0,2.0,2.0
 480,Hawking,True,Point,125.0,1.0,5.0,1.0,2.0
 481,Hubble,True,Circle,250.0,4.0,4.0,2.0,4.0
 482,Hubble,True,Random,16.0,8.0,4.0,2.0,4.0
-483,Hubble,False,Point,,1.0,,,
+483,Hubble,False,Point,16.0,1.0,,,
 484,Hubble,True,Point,250.0,8.0,4.0,1.0,3.0
 485,Hubble,True,Point,125.0,1.0,5.0,1.0,0.0
 486,Hubble,True,Brush,250.0,4.0,6.0,3.0,5.0
@@ -522,7 +522,7 @@
 520,Kepler,True,Brush,16.0,8.0,5.0,4.0,4.0
 521,Kepler,True,Brush,250.0,8.0,4.0,5.0,4.0
 522,Kepler,True,Point,250.0,1.0,4.0,1.0,1.0
-523,Kepler,False,Point,,1.0,,,
+523,Kepler,False,Point,16.0,1.0,,,
 524,Kepler,True,Random,16.0,8.0,4.0,4.0,4.0
 525,Kepler,True,Brush,16.0,4.0,3.0,4.0,4.0
 526,Kepler,True,Circle,250.0,8.0,4.0,1.0,1.0
@@ -563,7 +563,7 @@
 561,Lovelace,True,Random,16.0,8.0,5.0,5.0,5.0
 562,Lovelace,True,Random,125.0,4.0,4.0,4.0,4.0
 563,Lovelace,False,Circle,16.0,1.0,,,
-564,Lovelace,False,Point,,1.0,,,
+564,Lovelace,False,Point,16.0,1.0,,,
 565,Lovelace,True,Random,125.0,8.0,4.0,5.0,4.0
 566,Lovelace,True,Circle,250.0,4.0,5.0,1.0,1.0
 567,Lovelace,True,Random,125.0,1.0,1.0,4.0,4.0
@@ -606,7 +606,7 @@
 604,Newton,True,Random,16.0,1.0,6.0,4.0,2.0
 605,Newton,True,Circle,125.0,4.0,5.0,1.0,2.0
 606,Newton,True,Point,16.0,8.0,6.0,0.0,0.0
-607,Newton,False,Point,,1.0,,,
+607,Newton,False,Point,16.0,1.0,,,
 608,Newton,True,Random,250.0,1.0,3.0,5.0,5.0
 609,Newton,True,Point,250.0,1.0,4.0,2.0,1.0
 610,Newton,True,Brush,16.0,1.0,5.0,4.0,4.0
@@ -632,7 +632,7 @@
 630,Planck,True,Random,16.0,8.0,3.0,2.0,2.0
 631,Planck,True,Point,16.0,1.0,3.0,0.0,0.0
 632,Planck,True,Brush,250.0,4.0,4.0,2.0,1.0
-633,Planck,False,Point,,1.0,,,
+633,Planck,False,Point,16.0,1.0,,,
 634,Planck,True,Point,16.0,8.0,4.0,1.0,2.0
 635,Planck,True,Point,125.0,4.0,3.0,3.0,2.0
 636,Planck,True,Circle,16.0,1.0,3.0,0.0,1.0
@@ -670,7 +670,7 @@
 668,Tesla,True,Random,16.0,1.0,4.0,3.0,5.0
 669,Tesla,True,Brush,250.0,4.0,5.0,5.0,3.0
 670,Tesla,True,Brush,16.0,1.0,6.0,5.0,4.0
-671,Tesla,False,Point,,1.0,,,
+671,Tesla,False,Point,16.0,1.0,,,
 672,Tesla,True,Circle,16.0,8.0,3.0,1.0,4.0
 673,Tesla,True,Brush,16.0,4.0,4.0,5.0,5.0
 674,Tesla,True,Circle,16.0,1.0,3.0,0.0,0.0
